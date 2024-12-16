@@ -1,0 +1,16 @@
+body {
+    padding: 20px;
+}
+
+h5 {
+    margin-top: 40px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+/* src/css/style.css に追加 */
+.center-align {
+    text-align: center;
+}
