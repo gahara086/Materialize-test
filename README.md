@@ -1,5 +1,5 @@
 # タスク管理アプリ
-UIフレームワーク[Materialize](https://materializecss.com/)を使用したTOODアプリです。
+UIフレームワーク[Materialize](https://materializecss.com/)を使用したTOODアプリです。  
 画面イメージ確認用に作成しました。
 
 ## 機能
@@ -27,6 +27,6 @@ UIフレームワーク[Materialize](https://materializecss.com/)を使用した
 ```
 
 ## セットアップ方法
-1. プロジェクトをクローンまたはダウンロードします
-2. Webサーバー（Tomcatなど）にデプロイします
-3. ブラウザで`index.jsp`にアクセスします
+1. プロジェクトをクローンまたはダウンロード
+2. Webサーバー（Tomcatなど）にデプロイ
+3. ブラウザで`index.jsp`にアクセス
